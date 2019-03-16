@@ -1,0 +1,24 @@
+{
+  "name": "san13pkeditorconfig",
+  "version": "1.0.0",
+  "description": "make json for San13PK at Edizon.",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js > dist/0100882001380000.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushairer/san13pkeditorconfig.git"
+  },
+  "keywords": [
+    "edizon",
+    "switch",
+    "san13pk"
+  ],
+  "author": "abenx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushairer/san13pkeditorconfig/issues"
+  },
+  "homepage": "https://github.com/rushairer/san13pkeditorconfig#readme"
+}
